@@ -8,7 +8,7 @@ Executables gives nice results.
 This repository contains only source for the programs. Tu run it, you need to compile it first.
 
 # How to use
-Usage of these programs is pretty easy and straightforward. Both takes the following data:
+Usage of these programs is pretty easy and straightforward. Both take the following data:
  - Row width - Width of the image. Must be the same when encoding and decoding for correct data.
  - Source file - File to decode/encode
  - Result file - Where to save results
